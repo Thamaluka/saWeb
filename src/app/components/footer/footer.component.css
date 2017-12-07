@@ -1,0 +1,30 @@
+footer{
+    padding: 10px;
+    color: white;
+}
+
+footer li {
+    list-style-type:none;
+}
+
+footer .footer-1 {
+    display: flex;
+    font-size: 10px;
+    text-transform: uppercase;
+    font-weight: bold;
+    line-height: 30px;
+}
+
+footer .footer-2{
+    font-size: 10px;
+    text-align: center;
+}
+
+footer .footer-3{
+    font-size: 15px;
+}
+
+footer .footer-3 img{
+    width:100%;
+    height:auto;
+}
